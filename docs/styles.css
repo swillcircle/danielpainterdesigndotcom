@@ -361,7 +361,7 @@ body {
   background-color: #2d2d2d; }
 
 .hero-image {
-  background-image: url("/docs/imgs/dpainterdesign_background_vivid.png");
+  background-image: url("imgs/dpainterdesign_background_vivid.png");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: 100%;
