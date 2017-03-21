@@ -423,6 +423,7 @@ svg {
   fill: #D1D3D4;
   -webkit-animation: fadeInLeft 4s;
   animation: fadeInLeft 4s;
+  animation-fill-mode: forwards;
   opacity: .75; }
 
 footer {
