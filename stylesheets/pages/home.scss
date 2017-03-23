@@ -1,67 +1,70 @@
-
-/**
-  LandingPage
-    **/
+///////////////////////////////////////////// Landing Page //////////////////////////////////////////////////
 body {
   background-color: #2d2d2d;
 }
 
 .hero-image {
-  background-image: url("imgs/dpainterdesign_background_vivid.png");
-  background-position: center center;
-  background-repeat: no-repeat;
+  background: url("imgs/dpainterdesign_background_vivid.jpg") center no-repeat;
   background-size: 100%;
-  background-color: #2d2d2d;
-  overflow: visible;
-  min-width: 600px;
+  position: absolute;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+}
+
+.hero-content {
+  width: 100%;
 }
 
 .content-wrapper {
   width: 85%;
   margin: auto;
+  z-index: 1;
+  position: relative;
+  display: flex;
+  height: calc(100vh - 128px);
+  align-items: center;
 }
 
 .primary-header {
   display: flex;
-  align-items: flex-end;
-  height: 6vh;
-  float: right;
+  align-items: center;
+  width: 85%;
+  height: 64px;
+  justify-content: flex-end;
+  margin: auto;
+  z-index: 2;
+  position: relative;
 }
 
 .social-links {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  height: 44px;
   width: 176px;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  justify-content: space-between;
 }
 
-.email-icon {
-  -webkit-animation: fadeIn 2s;
-          animation: fadeIn 2s;
-}
+.nav-item {
+  opacity: 0;
+  animation: fadeIn 2s;
+  animation-fill-mode: forwards;
+  @at-root {
+    @keyframes fadeIn {
+      100% { opacity: 1; }
+    }
+  }
 
-.linkedIn-icon {
-  -webkit-animation: fadeIn 3.5s;
-          animation: fadeIn 3.5s;
-}
-
-.dribble-icon {
-  -webkit-animation: fadeIn 4.5s;
-          animation: fadeIn 4.5s;
+  @for $i from 1 through 3 {
+    $speed: .25;
+    &:nth-child(#{$i}) {
+      animation-delay: (($speed * $i) - $speed) * 1s;
+    }
+  }
 }
 
 svg {
-  margin: 410px auto 410px auto;
   max-width: 950px;
   width: 60%;
-  padding: 0 0 0 3px;
+  padding-left: 3px;
 }
 
 .animation-design {
@@ -70,15 +73,13 @@ svg {
   stroke-dasharray: 525;
   stroke-dashoffset: 525;
   opacity: .65;
-  -webkit-animation: offset 2s linear forwards;
-          animation: offset 2s linear forwards;
+  animation: offset 2s linear forwards;
 }
 
 #animation-develop {
   fill: #D1D3D4;
-  -webkit-animation: fadeInLeft 4s;
-          animation: fadeInLeft 4s;
-          animation-fill-mode: forwards;
+  animation: fadeInLeft 4s;
+  animation-fill-mode: forwards;
   opacity: .75;
 }
 
@@ -87,55 +88,20 @@ footer {
   padding: 0px;
 }
 
-  /*---------
-    KEYFRAMES
-  ---------*/
-
-  @keyframes fadeIn {
-    0% {
-      opacity: 0; }
-    100% {
-      opacity: 1; }
-    }
-
-  @keyframes fadeInLeft {
-    0% {
-      opacity: 0;
-      -webkit-transform: translateX(20px);
-              transform: translateX(20px);
-}
-    100% {
-      opacity: .75;
-      -webkit-transform: translateX(0);
-              transform: translateX(0); }
+///////////////////////////////////////////// KEYFRAMES //////////////////////////////////////////////////
+@keyframes fadeInLeft {
+  0% {
+    opacity: 0;
+    transform: translateX(20px);
+  }
+  100% {
+    opacity: .75;
+    transform: translateX(0);
+  }
 }
 
-  @keyframes offset {
-    100% {
-      stroke-dashoffset: 0; }
-}
-
-
-/*---------
-  MEDIA QUERIES
----------*/
-
-
-@media only screen and (max-width: 586px) {
-  svg {
-    width: 50%;
-    padding: 0 0px 0 3px; }
-  // .primary-header {
-  //   float: none;
-  //   margin-left: 10%;}
-}
-
-@media only screen and (max-width: 430px) {
-  svg {
-    width: 30%;
-    min-width: 260px;}
-}
-@media only screen and (max-width: 308px) {
-  .content-wrapper {
-    width: 100%;}
+@keyframes offset {
+  100% {
+    stroke-dashoffset: 0;
+  }
 }

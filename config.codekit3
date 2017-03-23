@@ -9,6 +9,14 @@
 	],
 "creatorBuild": "25504",
 "files": {
+	"\/docs\/imgs\/dpainterdesign_background_vivid.jpg": {
+		"ft": 16384,
+		"iS": 158208,
+		"oA": 0,
+		"oAP": "\/docs\/imgs\/dpainterdesign_background_vivid.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/docs\/imgs\/dpainterdesign_background_vivid.png": {
 		"ft": 32768,
 		"iS": 418683,
@@ -96,7 +104,7 @@
 		"uL": 1
 		},
 	"\/stylesheets\/main.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
