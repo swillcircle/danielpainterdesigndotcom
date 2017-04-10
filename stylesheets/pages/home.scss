@@ -53,7 +53,7 @@ body {
     }
   }
 
-  @for $i from 1 through 3 {
+  @for $i from 1 through 4 {
     $speed: .25;
     &:nth-child(#{$i}) {
       animation-delay: (($speed * $i) - $speed) * 1s;
