@@ -9,6 +9,12 @@
 	],
 "creatorBuild": "25704",
 "files": {
+	"\/docs\/CNAME": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/docs\/CNAME",
+		"oF": 0
+		},
 	"\/docs\/imgs\/dpainterdesign_background_vivid.jpg": {
 		"ft": 16384,
 		"iS": 158208,
