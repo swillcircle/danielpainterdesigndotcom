@@ -120,13 +120,13 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/docs\/imgs\/BJ-Penn-Rework-Logo.jpg": {
+	"\/docs\/imgs\/bjpenn-rework-logo.jpg": {
 		"ft": 16384,
 		"iS": 34833,
 		"oA": 0,
-		"oAP": "\/docs\/imgs\/BJ-Penn-Rework-Logo.jpg",
+		"oAP": "\/docs\/imgs\/bjpenn-rework-logo.jpg",
 		"oF": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/docs\/imgs\/cv-landing-page.jpg": {
@@ -272,13 +272,13 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/docs\/imgs\/VS-Angel-GC-Packaging.jpg": {
+	"\/docs\/imgs\/vsangel-gc-packaging.jpg": {
 		"ft": 16384,
 		"iS": 118213,
 		"oA": 0,
-		"oAP": "\/docs\/imgs\/VS-Angel-GC-Packaging.jpg",
+		"oAP": "\/docs\/imgs\/vsangel-gc-packaging.jpg",
 		"oF": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/docs\/index.html": {
@@ -295,6 +295,12 @@
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
+		},
+	"\/docs\/portfolio.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/docs\/portfolio.html",
+		"oF": 0
 		},
 	"\/docs\/styles.css": {
 		"aP": 1,
