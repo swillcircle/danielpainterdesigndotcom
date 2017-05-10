@@ -15,6 +15,138 @@
 		"oAP": "\/docs\/CNAME",
 		"oF": 0
 		},
+	"\/docs\/imgs\/2014-retail-layout.jpg": {
+		"ft": 16384,
+		"iS": 308326,
+		"oA": 0,
+		"oAP": "\/docs\/imgs\/2014-retail-layout.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/docs\/imgs\/2015-book-stand.jpg": {
+		"ft": 16384,
+		"iS": 64497,
+		"oA": 0,
+		"oAP": "\/docs\/imgs\/2015-book-stand.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/docs\/imgs\/2015-bottle-production.jpg": {
+		"ft": 16384,
+		"iS": 265441,
+		"oA": 0,
+		"oAP": "\/docs\/imgs\/2015-bottle-production.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/docs\/imgs\/2015-bottle.jpg": {
+		"ft": 16384,
+		"iS": 35029,
+		"oA": 0,
+		"oAP": "\/docs\/imgs\/2015-bottle.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/docs\/imgs\/2015-box-display.jpg": {
+		"ft": 16384,
+		"iS": 112619,
+		"oA": 0,
+		"oAP": "\/docs\/imgs\/2015-box-display.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/docs\/imgs\/2015-display-prototype.jpg": {
+		"ft": 16384,
+		"iS": 24444,
+		"oA": 0,
+		"oAP": "\/docs\/imgs\/2015-display-prototype.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/docs\/imgs\/2015-event-backdrop.jpg": {
+		"ft": 16384,
+		"iS": 137012,
+		"oA": 0,
+		"oAP": "\/docs\/imgs\/2015-event-backdrop.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/docs\/imgs\/2015-long-table-bunk-fixture.jpg": {
+		"ft": 16384,
+		"iS": 88514,
+		"oA": 0,
+		"oAP": "\/docs\/imgs\/2015-long-table-bunk-fixture.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/docs\/imgs\/2015-table-bunk-fixture.jpg": {
+		"ft": 16384,
+		"iS": 72081,
+		"oA": 0,
+		"oAP": "\/docs\/imgs\/2015-table-bunk-fixture.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/docs\/imgs\/2017-review-room-option.jpg": {
+		"ft": 16384,
+		"iS": 80617,
+		"oA": 0,
+		"oAP": "\/docs\/imgs\/2017-review-room-option.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/docs\/imgs\/2017-review-room-option.psd": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/docs\/imgs\/2017-review-room-option.psd",
+		"oF": 0
+		},
+	"\/docs\/imgs\/2017-review-room.jpg": {
+		"ft": 16384,
+		"iS": 135093,
+		"oA": 0,
+		"oAP": "\/docs\/imgs\/2017-review-room.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/docs\/imgs\/BJ-Penn-Rework-Logo.jpg": {
+		"ft": 16384,
+		"iS": 34833,
+		"oA": 0,
+		"oAP": "\/docs\/imgs\/BJ-Penn-Rework-Logo.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/docs\/imgs\/cv-landing-page.jpg": {
+		"ft": 16384,
+		"iS": 287590,
+		"oA": 0,
+		"oAP": "\/docs\/imgs\/cv-landing-page.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/docs\/imgs\/cv-logo.jpg": {
+		"ft": 16384,
+		"iS": 70602,
+		"oA": 0,
+		"oAP": "\/docs\/imgs\/cv-logo.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/docs\/imgs\/dpainterdesign_background_vivid.jpg": {
 		"ft": 16384,
 		"iS": 158208,
@@ -54,6 +186,26 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/docs\/imgs\/folder-icon.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/docs\/imgs\/folder-icon.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/docs\/imgs\/folder-logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/docs\/imgs\/folder-logo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/docs\/imgs\/github-icon.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -83,6 +235,51 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/docs\/imgs\/pink-pamphlet-inside.jpg": {
+		"ft": 16384,
+		"iS": 275814,
+		"oA": 0,
+		"oAP": "\/docs\/imgs\/pink-pamphlet-inside.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/docs\/imgs\/pink-pamphlet-outside.jpg": {
+		"ft": 16384,
+		"iS": 249074,
+		"oA": 0,
+		"oAP": "\/docs\/imgs\/pink-pamphlet-outside.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/docs\/imgs\/rau-restraunt-lp.jpg": {
+		"ft": 16384,
+		"iS": 265633,
+		"oA": 0,
+		"oAP": "\/docs\/imgs\/rau-restraunt-lp.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/docs\/imgs\/staring-contest.jpg": {
+		"ft": 16384,
+		"iS": 279545,
+		"oA": 0,
+		"oAP": "\/docs\/imgs\/staring-contest.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/docs\/imgs\/VS-Angel-GC-Packaging.jpg": {
+		"ft": 16384,
+		"iS": 118213,
+		"oA": 0,
+		"oAP": "\/docs\/imgs\/VS-Angel-GC-Packaging.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/index.html": {
 		"ft": 8192,
@@ -148,11 +345,32 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/stylesheets\/pages\/portfolio.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/stylesheets\/pages\/portfolio.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/views\/index.jade": {
 		"cOD": 1,
 		"ft": 512,
 		"oA": 0,
 		"oAP": "\/docs\/index.html",
+		"oF": 2,
+		"oS": 0
+		},
+	"\/views\/portfolio.jade": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/docs\/portfolio.html",
 		"oF": 2,
 		"oS": 0
 		}
