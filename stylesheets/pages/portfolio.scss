@@ -1,0 +1,33 @@
+.header {
+  display: flex;
+  justify-content: center;
+  position: fixed;
+  z-index: 100;
+  width: 100%;
+  top: 0px;
+  background-color: #2d2d2d
+
+}
+
+p {
+  font-family: 'Roboto',Helvetica Neue,Helvetica,Arial,sans-serif;
+	font-size: 3em;
+	font-weight: 200;
+  color: #fff;
+}
+.portfolio-wrapper {
+  display: table;
+  margin-top: 153px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.gallery-image{
+  display: inline-table;
+  margin: 2px 4px;
+  width: 24.5vw;
+  min-width: 350px;
+}
+.gallery-image img {
+  width: 100%
+}
