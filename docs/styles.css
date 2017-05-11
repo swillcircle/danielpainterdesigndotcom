@@ -494,7 +494,6 @@ footer {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  position: fixed;
   z-index: 100;
   width: 100%;
   top: 0px;
@@ -508,7 +507,6 @@ p {
 
 .portfolio-wrapper {
   display: table;
-  margin-top: 153px;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
   -webkit-box-pack: center;

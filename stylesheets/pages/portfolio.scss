@@ -1,7 +1,6 @@
 .header {
   display: flex;
   justify-content: center;
-  position: fixed;
   z-index: 100;
   width: 100%;
   top: 0px;
@@ -17,7 +16,6 @@ p {
 }
 .portfolio-wrapper {
   display: table;
-  margin-top: 153px;
   flex-wrap: wrap;
   justify-content: center;
 }
