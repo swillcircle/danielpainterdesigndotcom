@@ -515,7 +515,6 @@ p {
           justify-content: center; }
 
 .gallery-image {
-  display: inline-table;
   margin: 2px 4px;
   width: 24.5vw;
   min-width: 350px; }
