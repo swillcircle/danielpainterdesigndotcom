@@ -10,21 +10,70 @@
 p {
   font-family: 'Roboto',Helvetica Neue,Helvetica,Arial,sans-serif;
 	font-size: 3em;
-	font-weight: 200;
+	font-weight: 100;
   color: #fff;
 }
-.portfolio-wrapper {
+.container {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
 }
 
-.gallery-image{
+.mix{
   margin: 2px 4px;
   width: 24.5vw;
   min-width: 350px;
   flex-basis: 350px;
 }
-.gallery-image img {
+.mix img {
   width: 100%
+}
+.menubar {
+  display: flex;
+  flex-wrap: wrap;
+  width: 50%;
+  margin: 0 auto 25px;
+}
+
+button {
+  outline: none;
+  cursor: pointer;
+  flex: 1 1 auto;
+  margin: 10px;
+  padding: 20px;
+  border: 1px solid #fff;
+  z-index: 1;
+  background: transparent;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 100;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+  position: relative;
+  display: inline-flex;
+  justify-content: center;
+  transition: all 0.3s ease;
+}
+
+button:after {
+  position: absolute;
+  content: "";
+  width: 100%;
+  height: 0;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+  background: #fff;
+  transition: all 0.3s ease;
+}
+button:hover {
+  color: #000;
+}
+button:hover:after {
+  top: 0;
+  height: 100%;
+}
+button:active {
+  top: 2px;
 }

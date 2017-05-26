@@ -296,6 +296,24 @@
 		"oAP": "\/docs\/index.html",
 		"oF": 0
 		},
+	"\/docs\/js\/jquery-3.2.1.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/docs\/js\/jquery-3.2.1.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/docs\/js\/mixitup.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/docs\/js\/mixitup.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/docs\/js\/scripts.js": {
 		"ft": 64,
 		"mi": 1,
