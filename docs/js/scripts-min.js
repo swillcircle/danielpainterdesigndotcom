@@ -1,1 +1,1 @@
-$(document).ready(function(){$(".container").mixItUp()});
+$(document).ready(function(){$(".container").mixItUp()}),$(document).ready(function(){$(".menu-link").click(function(n){n.preventDefault(),$(".mobile-nav").toggleClass("is-closed"),$(".menu").toggleClass("open")})});
