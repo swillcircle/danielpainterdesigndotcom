@@ -15,6 +15,24 @@
 		"oAP": "\/docs\/CNAME",
 		"oF": 0
 		},
+	"\/docs\/imgs\/2014-mockspace-iso-lrg.jpg": {
+		"ft": 16384,
+		"iS": 481909,
+		"oA": 0,
+		"oAP": "\/docs\/imgs\/2014-mockspace-iso-lrg.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/docs\/imgs\/2014-mockspace-iso-sm.jpg": {
+		"ft": 16384,
+		"iS": 131091,
+		"oA": 0,
+		"oAP": "\/docs\/imgs\/2014-mockspace-iso-sm.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/docs\/imgs\/2014-retail-layout.jpg": {
 		"ft": 16384,
 		"iS": 308326,
@@ -69,11 +87,47 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/docs\/imgs\/2015-djp-homepage.jpg": {
+		"ft": 16384,
+		"iS": 175558,
+		"oA": 0,
+		"oAP": "\/docs\/imgs\/2015-djp-homepage.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/docs\/imgs\/2015-djp-landing.jpg": {
+		"ft": 16384,
+		"iS": 117551,
+		"oA": 0,
+		"oAP": "\/docs\/imgs\/2015-djp-landing.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/docs\/imgs\/2015-event-backdrop.jpg": {
 		"ft": 16384,
 		"iS": 137012,
 		"oA": 0,
 		"oAP": "\/docs\/imgs\/2015-event-backdrop.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/docs\/imgs\/2015-feast-table-lrg.jpg": {
+		"ft": 16384,
+		"iS": 144673,
+		"oA": 0,
+		"oAP": "\/docs\/imgs\/2015-feast-table-lrg.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/docs\/imgs\/2015-feast-table-sm.jpg": {
+		"ft": 16384,
+		"iS": 66215,
+		"oA": 0,
+		"oAP": "\/docs\/imgs\/2015-feast-table-sm.jpg",
 		"oF": 0,
 		"opt": 0,
 		"q": 100
@@ -310,6 +364,15 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/docs\/js\/mixitup.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/docs\/js\/scripts-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/docs\/js\/scripts-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
