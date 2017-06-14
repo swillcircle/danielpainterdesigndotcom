@@ -33,6 +33,33 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/docs\/imgs\/2014-mockstore-drive-sm.jpg": {
+		"ft": 16384,
+		"iS": 157943,
+		"oA": 0,
+		"oAP": "\/docs\/imgs\/2014-mockstore-drive-sm.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/docs\/imgs\/2014-nre-store-iso-sm.jpg": {
+		"ft": 16384,
+		"iS": 191410,
+		"oA": 0,
+		"oAP": "\/docs\/imgs\/2014-nre-store-iso-sm.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/docs\/imgs\/2014-nre-store-overhead-sm.jpg": {
+		"ft": 16384,
+		"iS": 191197,
+		"oA": 0,
+		"oAP": "\/docs\/imgs\/2014-nre-store-overhead-sm.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/docs\/imgs\/2014-retail-layout.jpg": {
 		"ft": 16384,
 		"iS": 308326,
@@ -74,6 +101,24 @@
 		"iS": 112619,
 		"oA": 0,
 		"oAP": "\/docs\/imgs\/2015-box-display.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/docs\/imgs\/2015-bravo-backdrop-iso-sm.jpg": {
+		"ft": 16384,
+		"iS": 146693,
+		"oA": 0,
+		"oAP": "\/docs\/imgs\/2015-bravo-backdrop-iso-sm.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/docs\/imgs\/2015-bravo-backdrop-sm.jpg": {
+		"ft": 16384,
+		"iS": 204723,
+		"oA": 0,
+		"oAP": "\/docs\/imgs\/2015-bravo-backdrop-sm.jpg",
 		"oF": 0,
 		"opt": 0,
 		"q": 100
@@ -132,6 +177,15 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/docs\/imgs\/2015-holiday-box-display-sm.jpg": {
+		"ft": 16384,
+		"iS": 143708,
+		"oA": 0,
+		"oAP": "\/docs\/imgs\/2015-holiday-box-display-sm.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/docs\/imgs\/2015-long-table-bunk-fixture.jpg": {
 		"ft": 16384,
 		"iS": 88514,
@@ -146,6 +200,15 @@
 		"iS": 72081,
 		"oA": 0,
 		"oAP": "\/docs\/imgs\/2015-table-bunk-fixture.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/docs\/imgs\/2016-table-bunks-sm.jpg": {
+		"ft": 16384,
+		"iS": 80822,
+		"oA": 0,
+		"oAP": "\/docs\/imgs\/2016-table-bunks-sm.jpg",
 		"oF": 0,
 		"opt": 0,
 		"q": 100
@@ -331,6 +394,24 @@
 		"iS": 279545,
 		"oA": 0,
 		"oAP": "\/docs\/imgs\/staring-contest.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/docs\/imgs\/tri-fold-pamphlet-pink-min.jpg": {
+		"ft": 16384,
+		"iS": 125328,
+		"oA": 0,
+		"oAP": "\/docs\/imgs\/tri-fold-pamphlet-pink-min.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/docs\/imgs\/tri-fold-pamphlet-show-min.jpg": {
+		"ft": 16384,
+		"iS": 106688,
+		"oA": 0,
+		"oAP": "\/docs\/imgs\/tri-fold-pamphlet-show-min.jpg",
 		"oF": 0,
 		"opt": 0,
 		"q": 100
