@@ -373,38 +373,33 @@ body {
   margin: auto;
   z-index: 1;
   position: relative;
-  display: -webkit-box;
-  display: -ms-flexbox;
+  display: -webkit-flex;
   display: flex;
   height: calc(100vh - 128px);
-  -webkit-box-align: center;
-      -ms-flex-align: center;
+  -webkit-align-items: center;
           align-items: center; }
 
 .primary-header {
-  display: -webkit-box;
-  display: -ms-flexbox;
+  display: -webkit-flex;
   display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
+  -webkit-align-items: center;
           align-items: center;
   width: 85%;
   height: 64px;
-  -webkit-box-pack: end;
-      -ms-flex-pack: end;
+  -webkit-justify-content: flex-end;
           justify-content: flex-end;
   margin: auto;
   z-index: 2;
   position: relative; }
 
 .social-links {
-  display: -webkit-box;
-  display: -ms-flexbox;
+  display: -webkit-flex;
   display: flex;
-  width: 200px;
-  -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between; }
+  width: 160px;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-align-items: center;
+          align-items: center; }
 
 .nav-item {
   opacity: 0;
@@ -436,13 +431,14 @@ body {
 svg {
   max-width: 950px;
   width: 60%;
-  padding-left: 3px; }
+  padding-left: 3px;
+  overflow: initial; }
 
 .animation-design {
   stroke: #D1D3D4;
   stroke-width: 2;
-  stroke-dasharray: 525;
-  stroke-dashoffset: 525;
+  stroke-dasharray: 595;
+  stroke-dashoffset: 595;
   opacity: .65;
   -webkit-animation: offset 2s linear forwards;
           animation: offset 2s linear forwards; }
@@ -488,11 +484,9 @@ footer {
     stroke-dashoffset: 0; } }
 
 .header {
-  display: -webkit-box;
-  display: -ms-flexbox;
+  display: -webkit-flex;
   display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
+  -webkit-justify-content: center;
           justify-content: center;
   z-index: 100;
   width: 100%;
@@ -505,39 +499,35 @@ p {
   color: #fff; }
 
 .container {
-  display: -webkit-box;
-  display: -ms-flexbox;
+  display: -webkit-flex;
   display: flex;
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
+  -webkit-flex-wrap: wrap;
+          flex-wrap: wrap;
+  -webkit-justify-content: center;
           justify-content: center; }
 
 .mix {
   margin: 2px 4px;
   width: 24.5vw;
   min-width: 350px;
-  -ms-flex-preferred-size: 350px;
-      flex-basis: 350px; }
+  -webkit-flex-basis: 350px;
+          flex-basis: 350px; }
 
 .mix img {
   width: 100%; }
 
 .menubar {
-  display: -webkit-box;
-  display: -ms-flexbox;
+  display: -webkit-flex;
   display: flex;
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+          flex-wrap: wrap;
   width: 50%;
   margin: 0 auto 25px; }
 
 button {
   outline: none;
   cursor: pointer;
-  -webkit-box-flex: 1;
-      -ms-flex: 1 1 auto;
+  -webkit-flex: 1 1 auto;
           flex: 1 1 auto;
   margin: 10px;
   padding: 20px;
@@ -551,13 +541,10 @@ button {
   text-transform: uppercase;
   text-decoration: none;
   position: relative;
-  display: -webkit-inline-box;
-  display: -ms-inline-flexbox;
+  display: -webkit-inline-flex;
   display: inline-flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
+  -webkit-justify-content: center;
           justify-content: center;
-  -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease; }
 
 button:after {
@@ -569,7 +556,6 @@ button:after {
   left: 0;
   z-index: -1;
   background: #fff;
-  -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease; }
 
 button:hover {
@@ -608,7 +594,6 @@ button:active {
   border-radius: 3px;
   position: absolute;
   left: 0;
-  -webkit-transition: all 0.25s ease-in-out;
   transition: all 0.25s ease-in-out; }
 
 .hamburger-bar-2 {
@@ -636,22 +621,17 @@ button:active {
 .mobile-nav {
   z-index: 130;
   position: fixed;
-  display: -webkit-box;
-  display: -ms-flexbox;
+  display: -webkit-flex;
   display: flex;
   padding: 10px 0;
-  -webkit-transition: max-height .3s, padding .3s;
   transition: max-height .3s, padding .3s;
   background-color: rgba(0, 0, 0, 0.6);
   width: 100%;
   height: 100vh;
   margin: auto;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
+  -webkit-flex-direction: column;
           flex-direction: column;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
+  -webkit-justify-content: center;
           justify-content: center; }
   .mobile-nav.is-closed {
     max-height: 0;

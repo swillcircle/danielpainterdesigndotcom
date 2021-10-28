@@ -39,8 +39,9 @@ body {
 
 .social-links {
   display: flex;
-  width: 200px;
+  width: 160px;
   justify-content: space-between;
+  align-items: center;
 }
 
 .nav-item {
@@ -65,13 +66,14 @@ svg {
   max-width: 950px;
   width: 60%;
   padding-left: 3px;
+  overflow: initial;
 }
 
 .animation-design {
   stroke: #D1D3D4;
   stroke-width: 2;
-  stroke-dasharray: 525;
-  stroke-dashoffset: 525;
+  stroke-dasharray: 595;
+  stroke-dashoffset: 595;
   opacity: .65;
   animation: offset 2s linear forwards;
 }
