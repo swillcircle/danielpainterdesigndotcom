@@ -388,8 +388,8 @@ body {
 .primary-header {
   display: -webkit-flex;
   display: flex;
-  -webkit-align-items: center;
-          align-items: center;
+  -webkit-align-items: end;
+          align-items: end;
   width: 85%;
   height: 64px;
   -webkit-justify-content: flex-end;
