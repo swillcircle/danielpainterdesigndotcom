@@ -350,11 +350,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/docs\/imgs\/Card-image-2.png" : {
+    "\/docs\/imgs\/Card-image-sq.png" : {
       "ft" : 32768,
-      "iS" : 329349,
+      "iS" : 329202,
       "oA" : 0,
-      "oAP" : "\/docs\/imgs\/Card-image-2.png",
+      "oAP" : "\/docs\/imgs\/Card-image-sq.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
